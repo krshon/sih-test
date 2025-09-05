@@ -3,4 +3,4 @@ ultralytics==8.2.91
 pillow
 plotly
 pandas
-opencv-python-headless
+opencv-python-headless==4.10.0.84
